@@ -35,9 +35,7 @@
 <br />
 
 ---
-<!---[![Diky Nugraha Stats](https://github-readme-stats.vercel.app/api?username=dikynugraha1111&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true)](https://github.com/dikynugraha1111/)
-[![Diky Nugraha Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dikynugraha1111&langs_count=8&hide_border=true&theme=algolia)](https://github.com/dikynugraha1111)
---->
+
 
 <table style="border: 0px">
   <tr>
@@ -45,7 +43,7 @@
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZibranovSky&langs_count=5&hide_border=true&theme=algolia&hide=css,scss,html,makefile,JavaScript,C" align="left" style="width: 100%" />
 </td>
     <td valign="top" width="64%">
-  <img src="https://github-readme-stats.vercel.app/api?username=bertojuni&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true" align="left" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZibranovSky&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true" align="left" style="width: 100%" />
      
 </td>
   </tr>
@@ -53,6 +51,6 @@
 
 
 [github]: https://github.com/ZibranovSky
-[instagram]: https://github.com/bertojuni/bertojuni.git
+[instagram]: https://www.instagram.com/zibran.fitadiyatama/
 [website]: https://zibranovsky.github.io/
-[linkedin]: https://www.linkedin.com/in/bertojuni/
+[linkedin]: https://www.linkedin.com/in/m-zibran-f/
