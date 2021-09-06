@@ -1,10 +1,8 @@
-# Hi there, I'm berto juni - Just Call me [Berto][instagram] <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
+# Hi there, I'm Muhamad Zibran Fitadiyatama - Just Call me [Zibran][instagram] <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
 ![](https://visitor-badge.laobi.icu/badge?page_id=bertojuni.bertojuni)
-### I'm a Developer!!
+### I'm a Back End Developer!!
 
-- 🌱 I am a Front End Web Development and UI/UX Designer
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: look on instagram :smirk:
+- 🌱 I am a Back End Web Development
 
 ---
 
@@ -54,7 +52,7 @@
 </table>
 
 
-[github]: https://github.com/bertojuni
+[github]: https://github.com/ZibranovSky
 [instagram]: https://github.com/bertojuni/bertojuni.git
-[website]: https://bertojuni.github.io/
+[website]: https://zibranovsky.github.io/
 [linkedin]: https://www.linkedin.com/in/bertojuni/
