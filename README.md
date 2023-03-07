@@ -38,7 +38,7 @@
 <table style="border: 0px">
   <tr>
     <td valign="top" width="36%">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZibranovSky&langs_count=10&hide_border=true&theme=algolia&hide=css,scss,html,makefile,JavaScript,C" align="left" style="width: 100%" />
+       <img src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=ZibranovSky&langs_count=10&hide_border=true&theme=algolia&hide=css,scss,html,makefile,JavaScript,C" align="left" style="width: 100%" />
 </td>
     <td valign="top" width="64%">
   <img src="https://github-readme-stats.vercel.app/api?username=ZibranovSky&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true" align="left" style="width: 100%" />
